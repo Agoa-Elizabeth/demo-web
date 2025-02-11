@@ -1,0 +1,35 @@
+
+  
+  body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  body{
+    p{
+      font-style: italic;
+      color: rgb(230, 7, 118);
+      font-size: x-large;
+    }
+  }
+  body{
+    h1{
+      color: blue;
+      font-size: xx-large;
+      font-weight: bolder;
+      font-style: initial;
+      text-align: center;
+    }
+  }
+
+  body{
+    li{
+      color: blueviolet;
+      font-size: large;
+      font-style: oblique;
+    }
+  }
+  
+    
+  
+ 
